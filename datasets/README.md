@@ -6,3 +6,5 @@ download three files and put them in this directory
 - articles.csv
 - customers.csv
 - transactions_train.csv
+
+Have Fun!
